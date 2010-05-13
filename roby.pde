@@ -11,7 +11,7 @@
 #define UPDDG 3
 #define UPDDD 4
 
-#define LDRSEUIL 100
+#define LDRSEUIL 150
 #define LDRG 1
 #define LDRD 0
 
